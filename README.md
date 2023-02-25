@@ -20,11 +20,11 @@ It is a repository to create development enviroment for odoo using docker compos
 - clone this repository and [odoo](https://github.com/odoo/odoo.git) inside the common directory.
     ```
     git clone https://github.com/odoo/odoo.git
-    git clone https://github.com/m-azzain/odoo-dev-env.git
+    git clone https://github.com/zahrabadzohreh/odoo-docker-dev.git
     ```
 - copy the .dockerignore file to the common directory
     ```
-    cd odoo-dev-env
+    cd odoo-docker-dev
     cp ./.dockerignore ../
     ```
      if you are using windows you need to substitute  `cp ./.dockerignore ../` with ` copy .\.dockerignore ..\`
