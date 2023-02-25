@@ -34,4 +34,4 @@ It is a repository to create development enviroment for odoo using docker compos
 - If every thing went well you can access the running server on `localhost:8069`
 - For more docker compose commands you can visit their site [docker compose docs](https://docs.docker.com/compose/).
 
-refrence: https://github.com/m-azzain/odoo-dev-env
+reference: https://github.com/m-azzain/odoo-dev-env
